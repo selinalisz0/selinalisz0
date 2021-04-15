@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selinalisz0
-- 👀 I’m interested in coding，sing,reading
+- 👀 I’m interested in coding,sing,drawing
 
 <!---
 selinalisz0/selinalisz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
